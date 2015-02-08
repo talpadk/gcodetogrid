@@ -19,5 +19,5 @@ Options:
 --ny			the distance between grid points in the y direction, defaults to the value of --nx if not given.
 --zsafe, -z		the safe height that the tool should be moved to prior to moving to a new grid point.
 
-Example usage: ./gcodetogrid.pl --nx=50 --gridx=3 --feed=100 -z=4 <my_code.g >grid_version.g
+Example usage: ./gcodetogrid.pl --nx=50 --gridx=3 --feed=100 -z=4 &lt;my_code.g &gt;grid_version.g
 </pre>
